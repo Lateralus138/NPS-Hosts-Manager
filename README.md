@@ -6,7 +6,7 @@ Program features:
 
 1. Backup
 	- backup hosts file to any folder
-	- name it anything (but defaults to hosts_<date>.bak)
+	- name it anything (but defaults to hosts_\<date\>.bak)
 	- great way to save multiple versions
 1. Replace
 	- replace hosts file with any file you want (but should be a hosts file of course lol)
