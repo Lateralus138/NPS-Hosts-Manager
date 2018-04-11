@@ -22,9 +22,9 @@ Program features:
 	- set Read/Write state of the hosts file on the fly
 	
 ## Current Release
-[NPS Hosts Manager 32 Bit]()<br />
-[NPS Hosts Manager 64 Bit]()<br />
-[Release Page - Source Files]()
+[NPS Hosts Manager 32 Bit](https://github.com/Lateralus138/NPS-Hosts-Manager/releases/download/1.4.11.18/NPS-Hosts-Manager-32Bit.exe)<br />
+[NPS Hosts Manager 64 Bit](https://github.com/Lateralus138/NPS-Hosts-Manager/releases/download/1.4.11.18/NPS-Hosts-Manager-64Bit.exe)<br />
+[Release Page - Source Files](https://github.com/Lateralus138/NPS-Hosts-Manager/releases/latest)
 
 ## Motivation
 
